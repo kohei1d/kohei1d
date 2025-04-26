@@ -1,4 +1,4 @@
-## Hi there 👋
+## Software engineer dedicated to realizing people’s passions 🌐
 
 <!--
 **kohei1d/kohei1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
