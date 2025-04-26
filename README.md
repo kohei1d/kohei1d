@@ -7,7 +7,7 @@
 `Ruby on Rails` / `Express.js`
 
 ### ✅ Infrastructure
-`Terraform` / `AWS (EC2, ECS, S3, WAF, CDK, Lambda, Aurora, SQS etc.)`
+`Terraform` / `AWS (EC2, ECS, S3, WAF, CDK, Lambda, Aurora, SQS etc...)`
 
 ### ✅ Other
 `MySQL` / `C++` / `Assembly (MASM)` / `Scrum`
