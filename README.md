@@ -1,16 +1,13 @@
-## Software engineer dedicated to realizing people’s passions 🌐
+## Tech Stack
 
-<!--
-**kohei1d/kohei1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✅ Frontend
+`Next.js` / `React` / `TypeScript` / `Nuxt` / `Vue.js` / `Tailwind CSS` / `Shadcn`
 
-Here are some ideas to get you started:
+### ✅ Backend
+`Ruby on Rails` / `Express.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✅ Infrastructure
+`Terraform` / `AWS (EC2, ECS, S3, WAF, CDK, Lambda, Aurora, SQS etc.)`
+
+### ✅ Other
+`MySQL` / `C++` / `Assembly (MASM)` / `Scrum`
